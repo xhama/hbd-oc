@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Happy Birthday Olivia!</title>
+    <link>http://ilovenigel.xyz/</link>
+    <description>Recent content on Happy Birthday Olivia!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Mar 2021 19:49:12 -0400</lastBuildDate><atom:link href="http://ilovenigel.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xhama</title>
+      <link>http://ilovenigel.xyz/wishes/xhama/</link>
+      <pubDate>Sun, 21 Mar 2021 19:49:12 -0400</pubDate>
+      
+      <guid>http://ilovenigel.xyz/wishes/xhama/</guid>
+      <description>Add images below&amp;hellip;
+Add next button&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Xhama</title>
+      <link>http://ilovenigel.xyz/xhama/</link>
+      <pubDate>Sun, 21 Mar 2021 19:49:12 -0400</pubDate>
+      
+      <guid>http://ilovenigel.xyz/xhama/</guid>
+      <description>Add images below&amp;hellip;
+Add next button&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

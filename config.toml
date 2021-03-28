@@ -1,7 +1,7 @@
 baseURL = "http://ilovenigel.xyz/"
 languageCode = "en-us"
 title = "Happy Birthday Olivia!"
-theme = "hugo-story"
+theme = "hugo-story-2"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
