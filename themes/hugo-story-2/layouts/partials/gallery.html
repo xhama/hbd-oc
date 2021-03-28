@@ -1,0 +1,16 @@
+<!-- Gallery -->
+<section class="wrapper style1 align-center">
+    {{ if isset .Params "title" }}
+        <div class="inner">
+            <h2>{{ .title }}</h2>
+            <p>{{ .content | safeHTML }}</p>
+        </div>
+    {{ end }}
+
+    <!-- Gallery -->
+    <div class="gallery {{ .style }}">
+        {{ range .pictures }}
+            {{ partial "picture" . }}
+        {{ end }}
+    </div>
+</section>

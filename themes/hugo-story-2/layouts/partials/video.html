@@ -1,0 +1,6 @@
+<!-- Video Spotlight -->
+<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+    {{ with .video }}<div class="video align-center" style="background:black">
+        <iframe width="75%" height="500" src="https://www.youtube.com/embed/{{ . }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>{{ end }}
+</section>
