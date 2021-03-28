@@ -1,0 +1,9 @@
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in color5 invert"
+id: "second"
+title : "Cheers"
+content: |
+  First and foremost to pedialyte mimos, but also to the positivity you put into the world!
+button: 
+  label: "Let's Go"
+  link: "#"
+image: "images/spotlight3.jpeg"

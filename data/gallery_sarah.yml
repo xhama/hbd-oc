@@ -1,0 +1,8 @@
+style: "style2 medium lightbox onscroll-fade-in"
+pictures:
+  - image: "images/gallery/fulls/pic-1.jpg"
+    thumb: "images/gallery/fulls/pic-1.jpg"
+    button: ":)"
+  - image: "images/spotlight3.jpg"
+    thumb: "images/spotlight3-preview.jpg"
+    button: ":)"

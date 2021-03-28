@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color7 invert"
+id: "first"
+title : "Sea how much we love you?"
+content: |
+  Should i walk the plank for that pun lmk
+button: 
+  label: "moving on"
+  link: "#second"
+image: "images/spotlight4.jpeg"

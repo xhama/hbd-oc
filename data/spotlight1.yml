@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color4 invert"
+id: "first"
+title : "Nigey says HAPPY BIRTHDAY"
+content: |
+  Being the amazing human that you are, your family wants to show you some love, by creating this virtual scrapbook as an homage to your greatness.
+button: 
+  label: "Meowsey on"
+  link: "#second"
+image: "images/spotlight1.jpg"

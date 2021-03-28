@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in color4 invert"
+id: "first"
+title : "...who can do both"
+content: |
+   classy bougie ratchet
+button: 
+  label: "ah"
+  link: "#second"
+image: "images/spotlight6.jpeg"

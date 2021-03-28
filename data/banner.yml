@@ -1,0 +1,10 @@
+####################### Banner #########################
+style: "style2 content-align-center image-position-right fullscreen onload-image-fade-in onload-content-fade-right color2 invert"
+title : "HAPPY BIRTHDAY OLIVIA!"
+subtitle: |
+  An homage
+button:
+  label : "Let's celebrate"
+  link : "#first"
+image : "images/banner.jpeg"
+

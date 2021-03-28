@@ -1,0 +1,9 @@
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in color6 invert"
+id: "second"
+title : "We love ya"
+content: |
+  Keep scrolling to see just how much :)
+button: 
+  label: ":)"
+  link: "#third"
+image: "images/spotlight2.jpg"
